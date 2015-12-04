@@ -1,0 +1,12 @@
+{
+  "name": "own-hashcode",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "Materialize": "materialize#~0.97.3"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}
